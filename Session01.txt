@@ -31,7 +31,20 @@ Product quality
 Customer Satisfaction
 
 Error, Bug/Defect & Failure
+
+Term	Meaning	Example
+
+Error:	Human mistake made while developing software, Developer writes > instead of >=
+Defect:	Flaw/problem introduced into the software due to an error, 18-year-old user cannot register
+Bug: Another common term for a defect	Registration logic is incorrect
+Failure: Incorrect behavior observed when the software executes	User enters 18 → registration gets rejected
+
+
+Easy sequence:
+Error → Defect/Bug → Failure
 ----------------------------
+
+
 Reasons of Software Bugs
 
 1) Lack of communication between stakeholders, development and testing team.
